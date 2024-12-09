@@ -1,4 +1,4 @@
-#Addition using different languages
+
 #python---
 a = 10
 b = 8
@@ -23,5 +23,4 @@ c=a*b;
 System.out.println("result="+c);
 }
 }
-Thank You
-Bye
+
