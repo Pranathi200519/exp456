@@ -1,6 +1,11 @@
-# Addition
+#Addition using different languages
 #python---
 a = 10
 b = 8
 c = a*b
 print("result:",c)
+
+#C--
+#include<stdio.h>
+int main(){
+int a,b;
