@@ -10,3 +10,18 @@ print("result:",c)
 int main(){
 int a,b;
 c = a/b;
+printf("result=",c)
+}
+
+#JAVA--
+public class addnumbers{
+public static void(String[]args){
+int a=10;
+int b=5;
+int c;
+c=a*b;
+System.out.println("result="+c);
+}
+}
+Thank You
+Bye
